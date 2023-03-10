@@ -1,0 +1,17 @@
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+.vs/
+.vscode-test
+
+#Miscellaneous
+*.csproj.user
+*.Debug.config
+*.Release.config
+*.Development.json
+*/bin/
+*/obj/
+*/Console/
+*/Properties/
+*/Migrations/
